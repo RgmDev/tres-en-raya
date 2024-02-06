@@ -1,4 +1,4 @@
-import Square from '../square/Square';
+import Square from './Square';
 
 export default function Board({ xIsNext, squares, onPlay }) {
   function handleClick(i) {
