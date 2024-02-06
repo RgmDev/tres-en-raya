@@ -42,7 +42,9 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ### `npm run deploy`
 
 Deploy the app on github pages with gh-pages.
+
 See more about [gh-pages](https://www.npmjs.com/package/gh-pages) package.
+
 See more about [deploy React aplications on Github pages](https://www.freecodecamp.org/espanol/news/impletacion-de-una-aplicacion-react-en-github).
 
 ## Learn More
